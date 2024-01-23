@@ -1,0 +1,1 @@
+Frase criada pelo appendFile Diretamente no txtFrase criada pelo appendFile Diretamente no txt
